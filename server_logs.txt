@@ -1,0 +1,15 @@
+[10:22:27] User('192.168.1.39', 62745) Used '/who' command
+[10:22:32] User('192.168.1.39', 62745) Used '/codes' command
+[10:22:49] User('192.168.1.39', 62745) Used '/translate' command
+[10:22:55] User('192.168.1.39', 62745) Text to translate: Hello my dear friend
+[10:22:56] User('192.168.1.39', 62745) Language code: uk
+[10:22:58] [SERVER] Correct Language Input!
+[10:22:58] [SERVER] Translated text: Привіт, мій дорогий друже
+[10:23:15] User('192.168.1.39', 62745) Used '/translate' command
+[10:23:18] User('192.168.1.39', 62745) Text to translate: Hello
+[10:23:20] User('192.168.1.39', 62745) Language code: wewef
+[10:23:20] [SERVER] Wrong language input!
+[10:23:27] User('192.168.1.39', 62745) Language code: uk
+[10:23:28] [SERVER] Correct Language Input!
+[10:23:28] [SERVER] Translated text: Привіт
+[10:23:38] User('192.168.1.39', 62745) Used '/stop' command

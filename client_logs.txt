@@ -1,0 +1,32 @@
+Welcome, this server provides translation! 
+Available commands: /who, /translate, /codes, /stop
+/who - About author
+/translate - Begin translation proccess
+/codes - Codes for translation
+/stop - Stopping connection
+/who
+Dmitrii Palienko K-28 | Lab2 | Option 8
+Enter command: 
+/codes
+ru, en, uk, zh, de, fr, it, pt, ja, es...
+Enter command: 
+/translate
+Text to translate: 
+Hello my dear friend
+Translate to (language code): 
+uk
+Translation: Привіт, мій дорогий друже
+Enter command: 
+/translate
+Text to translate: 
+Hello
+Translate to (language code): 
+wewef
+Exception occurred: Wrong language code input!
+Try again!
+uk
+Translation: Привіт
+Enter command: 
+/stop
+Connection is closed! (Type anything to finish the process)
+f
